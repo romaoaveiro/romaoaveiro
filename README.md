@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>My name is Alisson Romão Santos, live in Brazil I'm a software developer student, english student currently work some personal projects and self-employed. Visit my portfolio online<a style="color:#FFF;" href="https://romao-portfolio.herokuapp.com/" target="_blank">Click here!</a></p>
+<p>My name is Alisson Romão Santos, live in Brazil I'm a software developer student, english student currently work some personal projects and self-employed. <a style="color:#FFF;" href="https://romao-portfolio.herokuapp.com/" target="_blank">Visit my portfolio online.</a></p>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=romaoaveiro&show_icons=true&theme=dracula"> 
