@@ -3,12 +3,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador romaoaveiro">
 
 <p align="left"> 
-  My name is Alisson Romão Santos, I am <strong>Front-end Developer</strong>.<br>
-  I am studying software development.
+  My name is Alisson Romão Santos, I am <strong>studying software development</strong>.
 </p>
 
 <p align="left">
-  🦄 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap.</strong>
+  🦄 Skills: <strong>HTML5, CSS3, JavaScript.</strong>
 </p>
 
 <p align="left">
