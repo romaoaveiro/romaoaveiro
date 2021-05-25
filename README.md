@@ -13,3 +13,8 @@
 <p align="left">
   💼 Tools: <strong>Visual Studio Code, Git and GitHub.</strong>
 </p>
+
+<p align="left">
+ email: <strong>romao.portfolio@gmail.com</strong>
+ linkedin: <strong>https://linkedin.com/in/romaoaveiro</strong>
+</p>
