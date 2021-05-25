@@ -15,10 +15,10 @@
 </p>
 
 <p align="left">
- email: <strong>romao.portfolio@gmail.com</strong>
+ E-mail: <strong>romao.portfolio@gmail.com</strong>
 </p>
 
 <p align="left">
- linkedin: <strong>https://linkedin.com/in/romaoaveiro</strong>
+ Linkedin: <strong>https://linkedin.com/in/romaoaveiro</strong>
 </p>
 
