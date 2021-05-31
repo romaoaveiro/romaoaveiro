@@ -14,11 +14,6 @@
   💼 Tools: <strong>Visual Studio Code, Git and GitHub.</strong>
 </p>
 
-<p align="left">
- E-mail: <strong>romao.portfolio@gmail.com</strong>
-</p>
-
-<p align="left">
- Linkedin: <strong>https://linkedin.com/in/romaoaveiro</strong>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Romão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romaoaveiro/)](https://www.linkedin.com/in/romaoaveiro/) 
+[![Gmail Badge](https://img.shields.io/badge/-romao.portfolio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romao.portfolio@gmail.com)](mailto:romao.portfolio@gmail.com)
 
