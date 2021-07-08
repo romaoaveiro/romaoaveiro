@@ -18,4 +18,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-romao.portfolio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romao.portfolio@gmail.com)](mailto:romao.portfolio@gmail.com)
 
 
-[![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaoaveiro&count_private=true&show_icons=true&theme=dracula))](https://github.com/romaoaveiro/github-readme-stats)
+[![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaoaveiro&count_private=true&show_icons=true&theme=dracula)](https://github.com/romaoaveiro/github-readme-stats)
