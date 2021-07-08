@@ -17,7 +17,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Alisson%20Romão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romaoaveiro/)](https://www.linkedin.com/in/romaoaveiro/) 
 [![Gmail Badge](https://img.shields.io/badge/-romao.portfolio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romao.portfolio@gmail.com)](mailto:romao.portfolio@gmail.com)
 
-[![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaoaveiro&count_private=true&show_icons=true&theme=dracula)
-)](https://github.com/romaoaveiro/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romaoaveiro&repo=github-readme-stats)](https://github.com/romaoaveiro/github-readme-stats)
+<div align="center">
+  [![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaoaveiro&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
