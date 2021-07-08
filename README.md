@@ -19,5 +19,3 @@
 
 
 [![Alisson's GitHub stats](https://github-readme-stats.vercel.app/api?username=romaoaveiro&count_private=true&show_icons=true&theme=dracula))](https://github.com/romaoaveiro/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=romaoaveiro&repo=github-readme-stats)](https://github.com/romaoaveiro/github-readme-stats)
